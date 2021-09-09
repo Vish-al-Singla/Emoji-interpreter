@@ -1,2 +1,2 @@
 # Emoji-interpreter
-Created with CodeSandbox
+React Base App to tranlate Emojis to words...
