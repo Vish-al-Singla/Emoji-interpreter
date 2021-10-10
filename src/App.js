@@ -6,7 +6,15 @@ var emojis = {
   "❤️": "Heart",
   "🤓": "Nerdy",
   "😠": "Angry",
-  "😂": "Laughing"
+  "😂": "Laughing",
+  "🙃": "Upside-Down",
+  "😉": "Winking",
+  "😙": "Kissing with Smiling",
+  "🤨" : "Raised Eyebrows",
+  "😪": "Sleepy",
+  "🥵": "Hot"
+
+
 };
 
 var emojisWeKnow = Object.keys(emojis);
